@@ -1,0 +1,68 @@
+@font-face {
+  font-family: 'Google Sans';
+  src: url('./GoogleSans/GoogleSans-Regular.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Google Sans';
+  src: url('./GoogleSans/GoogleSans-Italic.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Google Sans';
+  src: url('./GoogleSans/GoogleSans-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Google Sans';
+  src: url('./GoogleSans/GoogleSans-BoldItalic.ttf') format('truetype');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Google Sans';
+  src: url('./GoogleSans/GoogleSans-Medium.ttf') format('truetype');
+  font-weight: bolder;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Google Sans';
+  src: url('./GoogleSans/GoogleSans-MediumItalic.ttf') format('truetype');
+  font-weight: bolder;
+  font-style: italic;
+}
+
+
+@font-face {
+  font-family: 'Sailec';
+  src: url('./Sailec/Sailec.otf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Sailec';
+  src: url('./Sailec/Sailec-Bold.otf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sailec';
+  src: url('./Sailec/Sailec-Light.otf') format('truetype');
+  font-weight: lighter;
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Sailec';
+  src: url('./Sailec/Sailec-Medium.otf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
